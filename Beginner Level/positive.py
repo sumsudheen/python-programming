@@ -1,5 +1,7 @@
-x=raw_input("Enter some value")
-if (x<=0):
+x=int(input(""))
+if (x<0):
     print ("The Number is Negative")
+elif (x>0):
+    print ("The number is Positive")
 else:
-    print ("The Number is Positive")
+    print ("The Number is Zero")
