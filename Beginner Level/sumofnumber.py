@@ -1,3 +1,4 @@
+num =16 
 if num < 0:
    print("Enter numbers")
 else:
