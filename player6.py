@@ -44,4 +44,4 @@ def isomorphic(string1, string2):
 	return True
 
 # Driver program
-print (isomorphic("1232","2342"
+print (isomorphic("1232","2342"))
